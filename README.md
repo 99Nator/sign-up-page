@@ -1,0 +1,1 @@
+I created this webpage using only HTML and CSS to learn how to use the flexbox properties to place content on the center of the screen. Later I will add responsiveness to it so that content adapts to change in the size of the screen.   
